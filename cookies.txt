@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.orestisgeorgiou.com	TRUE	/	FALSE	1999999999	crumb	BW1GDVNzNXSiODdiMzZiYmI1MTM0N2FjYTczOGQ3OTg3OTQ0MDIy
+www.dropbox.com	TRUE	/	FALSE	1999999999	gvc	MjY4OTM4ODUwNjc5ODM3MzAzNTA5MDg2NTQzNDcxMTg0MDk2MDI1
+dropbox.com	TRUE	/	FALSE	1999999999	t	692_5RtGeVKUWY7paathqOIP
+www.dropbox.com	TRUE	/	FALSE	1999999999	__Host-js_csrf	692_5RtGeVKUWY7paathqOIP
+www.dropbox.com	TRUE	/	FALSE	1999999999	__Host-ss	rjvqpfG8ps
+dropbox.com	TRUE	/	FALSE	1999999999	locale	en
+www.dropbox.com	TRUE	/	FALSE	1999999999	SameSite	None
+.parliament.uk	TRUE	/	FALSE	1999999999	__cf_bm	HyN_q1kGV9MG_EEQPnkplYRhx9LkGxYWfmK13aaO7vc-1676643607-0-ATDZfS5O3P9WfHZZRyIrBIh2X6kRybRUESSLiO+ciqse80EeqlS2TWKGe53VOY58d1/5UZgctUZCvM3lkWPWSuY=
+www.parliament.uk	TRUE	/	FALSE	1999999999	SameSite	None
+www.imperial.ac.uk	TRUE	/	FALSE	1999999999	AWSALB	2dSRBjvwh1fj3qxUInnKt1cl/uKUjpEHKrKoxcuHLcuoKfTWdKG8Qs9WArcWgQc6RTuV07kFsztfMIjlFhvuY73c8gELjt7sp+OQ7R8gQHpMveta1bnB6OWpKCso
+www.imperial.ac.uk	TRUE	/	FALSE	1999999999	AWSALBCORS	2dSRBjvwh1fj3qxUInnKt1cl/uKUjpEHKrKoxcuHLcuoKfTWdKG8Qs9WArcWgQc6RTuV07kFsztfMIjlFhvuY73c8gELjt7sp+OQ7R8gQHpMveta1bnB6OWpKCso
+www.imperial.ac.uk	TRUE	/	FALSE	1999999999	SameSite	None
+

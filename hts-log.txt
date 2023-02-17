@@ -1,0 +1,37 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 17 Feb 2023 19:42:13 at http://https://www.orestisgeorgiou.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://https://www.orestisgeorgiou.com -O "/home/aramaanmeher/websites/Aca" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:48:41	Error: 	"Bad Request" (400) at link https://www.orestisgeorgiou.com/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FP7pD1xNWJMU%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DP7pD1xNWJMU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FP7pD1xNWJMU%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.orestisgeorgiou.com/)
+19:48:41	Error: 	"Bad Request" (400) at link https://www.orestisgeorgiou.com/"https://www.youtube.com/embed/9aLQgDJ-fIw?feature=oembed\%22 (from https://www.orestisgeorgiou.com/)
+19:48:41	Error: 	"Not Found" (404) at link https://www.orestisgeorgiou.com/"https://www.youtube.com/embed/9aLQgDJ-fIw?feature=oembed%22 (from https://www.orestisgeorgiou.com/)
+19:49:45	Error: 	"Bad Request" (400) at link https://www.orestisgeorgiou.com/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMW98ylHfuts&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMW98ylHfuts&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FMW98ylHfuts%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.orestisgeorgiou.com/speaking)
+19:49:45	Error: 	"Bad Request" (400) at link https://www.orestisgeorgiou.com/"//www.youtube.com/embed/RTBrDvfcrL8?wmode=opaque&amp;enablejsapi=1\%22 (from https://www.orestisgeorgiou.com/speaking)
+19:49:45	Error: 	"Not Found" (404) at link https://www.orestisgeorgiou.com/"//www.youtube.com/embed/RTBrDvfcrL8?wmode=opaque&enablejsapi=1%22 (from https://www.orestisgeorgiou.com/speaking)
+19:49:45	Error: 	"Bad Request" (400) at link https://www.orestisgeorgiou.com/"//www.youtube.com/embed/unnisZ_yYbA?t=1&amp;wmode=opaque&amp;enablejsapi=1\%22 (from https://www.orestisgeorgiou.com/speaking)
+19:49:45	Error: 	"Not Found" (404) at link https://www.orestisgeorgiou.com/"//www.youtube.com/embed/unnisZ_yYbA?t=1&wmode=opaque&enablejsapi=1%22 (from https://www.orestisgeorgiou.com/speaking)
+19:49:45	Error: 	"Bad Request" (400) at link https://www.orestisgeorgiou.com/"//www.youtube.com/embed/AwWj3OyOWKU?wmode=opaque&amp;enablejsapi=1\%22 (from https://www.orestisgeorgiou.com/speaking)
+19:49:45	Error: 	"Not Found" (404) at link https://www.orestisgeorgiou.com/"//www.youtube.com/embed/AwWj3OyOWKU?wmode=opaque&enablejsapi=1%22 (from https://www.orestisgeorgiou.com/speaking)
+19:51:10	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.orestisgeorgiou.com/blog-feed/haptics-research-blog-dr-orestis-georgiou (from https://www.orestisgeorgiou.com/blog)
+19:51:20	Error: 	"Bad Request" (400) at link https://www.orestisgeorgiou.com/"https://www.youtube.com/embed/YNye8bci9zA?feature=oembed\%22 (from https://www.orestisgeorgiou.com/blog-feed/2023/2/1/are-public-touchscreens-safe-to-touch)
+19:51:20	Error: 	"Not Found" (404) at link https://www.orestisgeorgiou.com/blog-feed/2023/2/1/"https://www.youtube.com/embed/YNye8bci9zA?feature=oembed%22 (from https://www.orestisgeorgiou.com/blog-feed/2023/2/1/are-public-touchscreens-safe-to-touch)
+19:53:33	Error: 	"" (400) at link https://www.orestisgeorgiou.com/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FP7pD1xNWJMU%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DP7pD1xNWJMU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FP7pD1xNWJMU%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.orestisgeorgiou.com/)
+19:53:33	Warning: 	HTML file (57974 bytes) retransferred due to lack of cache: https://www.orestisgeorgiou.com/blog-feed/2019/4/4/my-creative-process
+19:53:35	Error: 	"" (400) at link https://www.orestisgeorgiou.com/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMW98ylHfuts&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMW98ylHfuts&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FMW98ylHfuts%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.orestisgeorgiou.com/speaking)
+19:53:35	Warning: 	HTML file (55768 bytes) retransferred due to lack of cache: https://www.orestisgeorgiou.com/blog-feed?author=5a4e5a4d6f935edd34bf8e5e
+19:53:47	Error: 	"Forbidden" (403) at link https://www.parliament.uk/documents/post/POST_Role of Research in UK Parliament 2017.pdf (from https://www.orestisgeorgiou.com/blog-feed/2020/7/3/the-rise-of-the-scientist)
+19:53:47	Warning: 	HTML file (99603 bytes) retransferred due to lack of cache: https://www.orestisgeorgiou.com/blog-feed/haptics-research-blog-dr-orestis-georgiou
+19:53:51	Warning: 	HTML file (44321 bytes) retransferred due to lack of cache: https://www.orestisgeorgiou.com/blog-feed?author=549d62f9e4b0bcb26c1fdaff
+19:53:53	Warning: 	HTML file (57013 bytes) retransferred due to lack of cache: https://www.orestisgeorgiou.com/blog-feed
+19:53:56	Error: 	"Not Found" (404) at link https://cfl.dropboxstatic.com/ (from https://www.dropbox.com/s/t809ucrv5gbmfu2/My Movie 2.MOV?dl=0)
+19:53:57	Warning: 	Moved Permanently for https://dropbox.com/robots.txt
+19:53:57	Warning: 	Redirected link is identical because of 'URL Hack' option: https://dropbox.com/robots.txt and https://www.dropbox.com/robots.txt
+19:53:57	Warning: 	Warning moved treated for https://dropbox.com/robots.txt (real one is https://www.dropbox.com/robots.txt)
+19:55:08	Error: 	"No Content" (204) at link https://dropbox.com/hstsping (from https://www.dropbox.com/s/t809ucrv5gbmfu2/My Movie 2.MOV?dl=0)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 55 seconds : 179 links scanned, 172 files written (55846814 bytes overall) [39631557 bytes received at 51137 bytes/sec], 14342250 bytes transferred using HTTP compression in 60 files, ratio 25%, 2.0 requests per connection
+(17 errors, 9 warnings, 0 messages)
